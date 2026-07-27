@@ -1,4 +1,4 @@
-const apiKey = "API_KEY_KAMU";
+const apiKey = "446f22791ec04b39c2e617eb52df14b0";
 
 async function getWeather(){
 
